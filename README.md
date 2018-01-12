@@ -1,5 +1,6 @@
 # sina weibo delete new
 
+Origin Repo: [HiddenStrawberry — weibo-delall](https://github.com/HiddenStrawberry/weibo-delall)
 ### 执行步骤
 
 ```
