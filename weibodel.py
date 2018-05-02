@@ -15,6 +15,6 @@ while 1==1:
             datax={'mid':x}
             html=requests.post('https://weibo.com/aj/mblog/del?ajwvr=6',data=datax,headers=headers,verify=False).text
             print html
-            time.sleep(2) #请适当调整延迟！速度过快可能会导致10054错误！
+            # time.sleep(1) #请适当调整延迟！速度过快可能会导致10054错误！
     except Exception as err:
         print err
