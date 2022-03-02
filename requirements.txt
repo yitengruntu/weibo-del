@@ -78,7 +78,7 @@ pytz==2013.7
 queuelib==1.4.2
 requests==2.18.4
 scipy==0.13.0b1
-Scrapy==1.4.0
+Scrapy==1.8.2
 scrapy-crawlera==1.2.4
 service-identity==17.0.0
 singledispatch==3.4.0.3
